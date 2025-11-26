@@ -1,0 +1,7 @@
+errors in:
+products.tsx
+
+
+
+feature to implement:
+sticky filter

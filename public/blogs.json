@@ -1,0 +1,91 @@
+[
+    {
+      "id": 5,
+      "title": "Essential Cycling Gear for Beginners",
+      "excerpt": "New to cycling? Discover the must-have gear to make your rides safe and enjoyable.",
+      "image": "https://www.sefiles.net/merchant/4598/images/site/1540842507484.jpg",
+      "date": "April 10, 2025",
+      "author": "Rider's Digest",
+      "readingTime": "3 min read",
+      "tags": ["Gear", "Beginners", "Safety"],
+      "description": "Getting started with cycling is exciting, but having the right gear matters. Essential items include a helmet, lights, reflective clothing, water bottle, and gloves. Consider investing in padded shorts for comfort and a repair kit for emergencies. These items ensure a safe and comfortable riding experience."
+    },
+    {
+      "id": 6,
+      "title": "Cycling Routes You Must Explore in Bangladesh",
+      "excerpt": "Discover scenic cycling trails that showcase the beauty of Bangladesh.",
+      "image": "https://epicroadrides.com/wp-content/uploads/2021/04/Girona-easy-cycling-routes-copyright-Trek-and-Ride-11.jpg",
+      "date": "April 8, 2025",
+      "author": "Adventure Cyclist BD",
+      "readingTime": "6 min read",
+      "tags": ["Travel", "Routes", "Adventure"],
+      "description": "Bangladesh offers beautiful cycling routes such as the Cox's Bazar coastal path, the Sylhet tea garden trails, and the tranquil rural roads of Gazipur. These routes offer scenic beauty, local culture, and peaceful rides away from urban chaos—perfect for adventure seekers."
+    },
+    {
+      "id": 7,
+      "title": "How Cycling Can Help You Lose Weight",
+      "excerpt": "Burn fat and stay fit—cycling might be the best workout for your weight loss goals.",
+      "image": "https://toneopfit-strapi-prod.s3.ap-south-1.amazonaws.com/Difference_Between_Walking_and_Cycling_For_Belly_Fat_Loss_88173d62c5.jpg",
+      "date": "April 5, 2025",
+      "author": "FitRiders Club",
+      "readingTime": "4 min read",
+      "tags": ["Fitness", "Weight Loss", "Health"],
+      "description": "Cycling is a low-impact cardio exercise that burns a significant number of calories. Riding for 30–60 minutes a day can contribute to fat loss, muscle toning, and improved metabolism. Combine it with a balanced diet for the best results."
+    },
+    {
+      "id": 8,
+      "title": "Top Bicycle Accessories for Everyday Riders",
+      "excerpt": "Upgrade your biking experience with these top-rated accessories.",
+      "image": "https://www.rei.com/dam/bike-commuting-gear.jpg",
+      "date": "April 1, 2025",
+      "author": "Gear Gurus",
+      "readingTime": "5 min read",
+      "tags": ["Accessories", "Tech", "Riders"],
+      "description": "From phone mounts and smart lights to anti-theft locks and multi-tools, modern bike accessories can greatly enhance your ride. Invest in a quality saddle, handlebar grips, and bike computer for better tracking and comfort."
+    },
+    {
+      "id": 9,
+      "title": "Commuting by Bike: Tips for Urban Cyclists",
+      "excerpt": "Turn your daily commute into a healthy habit with these smart cycling tips.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/1/articles/2016/05/biketowork-0-1508864843.jpg?resize=640:*",
+      "date": "March 29, 2025",
+      "author": "Urban Mobility BD",
+      "readingTime": "5 min read",
+      "tags": ["Commuting", "City Life", "Productivity"],
+      "description": "Commuting by bike in busy cities can be rewarding. Choose bike-friendly routes, use proper lights, and wear reflective gear. Keep essentials like a raincoat and repair kit handy. Be mindful of traffic laws and practice defensive riding."
+    },
+    {
+      "id": 10,
+      "title": "Electric Bicycles: Are They Worth It?",
+      "excerpt": "E-bikes are gaining popularity, but should you get one? Here’s what to consider.",
+      "image": "https://i.ytimg.com/vi/UPxjonwXHZs/maxresdefault.jpg",
+      "date": "March 25, 2025",
+      "author": "Tech Cycle Reviews",
+      "readingTime": "6 min read",
+      "tags": ["E-Bike", "Technology", "Urban"],
+      "description": "Electric bikes combine pedal power with electric assistance, making them great for longer commutes or uphill rides. They’re eco-friendly, cost-efficient, and accessible for all ages. Consider battery life, charging time, and weight before purchasing."
+    },
+    {
+      "id": 11,
+      "title": "Must-Visit Cycling Events in South Asia",
+      "excerpt": "Explore the most exciting cycling events and festivals happening across South Asia.",
+      "image": "https://i0.wp.com/thetandemramble.com/wp-content/uploads/2020/07/DSC7042-copy.jpg?fit=3936%2C2216&ssl=1",
+      "date": "March 22, 2025",
+      "author": "Tour de Asia",
+      "readingTime": "4 min read",
+      "tags": ["Events", "Travel", "Culture"],
+      "description": "Join cycling events like the Tour de Himalaya or Dhaka Ride Fest to meet fellow enthusiasts and explore new routes. These events promote fitness, community, and adventure while offering opportunities to test your endurance."
+    },
+    {
+      "id": 12,
+      "title": "How to Store Your Bicycle Properly",
+      "excerpt": "Protect your investment with proper bike storage techniques.",
+      "image": "https://assets.dmagstatic.com/wp-content/uploads/2018/07/AsharhriFalls_BikeShop4.jpg",
+      "date": "March 18, 2025",
+      "author": "Garage Guru",
+      "readingTime": "3 min read",
+      "tags": ["Storage", "Maintenance", "Care"],
+      "description": "To avoid rust, frame damage, and tire deflation, store your bike in a dry, shaded area. Use wall hooks or floor racks for space-saving. For long-term storage, clean the bike thoroughly and release tire pressure slightly."
+    }
+  ]
+  

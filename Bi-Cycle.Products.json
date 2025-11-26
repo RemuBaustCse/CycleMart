@@ -1,0 +1,687 @@
+[{
+  "_id": {
+    "$oid": "67c07145a8cbf84cabd0ed17"
+  },
+  "name": "Giant Talon 1",
+  "brand": "Giant",
+  "price": 1400,
+  "type": "Mountain",
+  "description": "Designed for rugged trails with enhanced shock absorption.",
+  "quantity": 0,
+  "inStock": false,
+  "image": "https://i.ibb.co.com/qFmNS6DG/2024-PREMIER-24-XC-DISC-E-581722.webp"
+},
+{
+  "_id": {
+    "$oid": "67c07145a8cbf84cabd0ed18"
+  },
+  "name": "Specializ",
+  "brand": "Specialized",
+  "price": 1350,
+  "type": "Mountain",
+  "description": "Durable and lightweight mountain bike with precision gears.",
+  "quantity": 4,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/NgsW1SBW/thumbnail-image1.jpg",
+  "updated_at": {
+    "$date": "2025-03-04T10:54:36.956Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c07145a8cbf84cabd0ed19"
+  },
+  "name": "Scott Scale 970",
+  "brand": "Scott",
+  "price": 1550,
+  "type": "Mountain",
+  "description": "Advanced shock absorption with an ergonomic design.",
+  "quantity": 6,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/FbTHLhNM/images.jpg",
+  "updated_at": {
+    "$date": "2025-03-01T20:30:35.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c07145a8cbf84cabd0ed1a"
+  },
+  "name": "Cannondale Trail 5",
+  "brand": "Cannondale",
+  "price": 1450,
+  "type": "Mountain",
+  "description": "All-terrain mountain bike with powerful disc brakes.",
+  "quantity": 10,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/RkKfBDQz/AICPX24-X4-D5-MG1-817472.webp"
+},
+{
+  "_id": {
+    "$oid": "67c07145a8cbf84cabd0ed1d"
+  },
+  "name": "Marin Rift Zone 1",
+  "brand": "Marin",
+  "price": 1250,
+  "type": "Mountain",
+  "description": "Designed for beginners and professionals alike.",
+  "quantity": 7,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/WZb3RMK/backbeat-yellow.png",
+  "updated_at": {
+    "$date": "2025-02-28T05:22:27.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c07145a8cbf84cabd0ed1e"
+  },
+  "name": "Kona Process 134",
+  "brand": "Kona",
+  "price": 1750,
+  "type": "Mountain",
+  "description": "Hydraulic disc brakes with high-performance gearing.",
+  "quantity": 6,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/FLkTByc1/cms-66a0dc4d7cf196-25526579.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c07145a8cbf84cabd0ed1f"
+  },
+  "name": "YT Jeffsy Core 2",
+  "brand": "YT Industries",
+  "price": 1800,
+  "type": "Mountain",
+  "description": "Ultimate mountain bike for extreme trails and races.",
+  "quantity": 1,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/h1XkT8dZ/1571173219-santa-cruz-stigmata-1571173211.jpg",
+  "updated_at": {
+    "$date": "2025-03-04T10:55:02.434Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c071c9a8cbf84cabd0ed22"
+  },
+  "name": "Giant Defy Advanced 2",
+  "brand": "Giant",
+  "price": 2800,
+  "type": "Road",
+  "description": "Smooth ride with advanced composite frame and D-Fuse seatpost.",
+  "quantity": 10,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/8WPr0vB/Znn-Hppb-WFbowe0-PZ-0-K0-R5-GRX1-C-PROFILE-Web.webp"
+},
+{
+  "_id": {
+    "$oid": "67c071c9a8cbf84cabd0ed23"
+  },
+  "name": "Specialized Roubaix Sport",
+  "brand": "Specialized",
+  "price": 3500,
+  "type": "Road",
+  "description": "Endurance bike with Future Shock technology for smooth handling.",
+  "quantity": 0,
+  "inStock": false,
+  "image": "https://i.ibb.co.com/FLrNjTTy/Znn-Hy-Jb-WFbowe0-Pv-0-K0-STAUI2-C-PROFILE-Web.webp"
+},
+{
+  "_id": {
+    "$oid": "67c071c9a8cbf84cabd0ed24"
+  },
+  "name": "Cannondale SuperSix EVO Carbon",
+  "brand": "Cannondale",
+  "price": 4000,
+  "type": "Road",
+  "description": "Ultra-lightweight frame with aerodynamic efficiency and smooth shifting.",
+  "quantity": 5,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/DHynZRMy/Znn-Hbpb-WFbowe0-Oz-0-K0-CFBRX1-C-PROFILE-Web.webp"
+},
+{
+  "_id": {
+    "$oid": "67c07240a8cbf84cabd0ed26"
+  },
+  "name": "Trek Domane SL 6",
+  "brand": "Trek",
+  "price": 3200,
+  "type": "Road",
+  "description": "High-performance road bike with endurance geometry and IsoSpeed technology.",
+  "quantity": 8,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/R43yJ3h3/Znn-Hr5b-WFbowe0-Ph-0-K0-S5-FRX1-C-PROFILE-Web.webp"
+},
+{
+  "_id": {
+    "$oid": "67c07240a8cbf84cabd0ed27"
+  },
+  "name": "Giant Defy Advanced 2",
+  "brand": "Giant",
+  "price": 2800,
+  "type": "Road",
+  "description": "Smooth ride with advanced composite frame and D-Fuse seatpost.",
+  "quantity": 10,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/8WPr0vB/Znn-Hppb-WFbowe0-PZ-0-K0-R5-GRX1-C-PROFILE-Web.webp"
+},
+{
+  "_id": {
+    "$oid": "67c07240a8cbf84cabd0ed28"
+  },
+  "name": "Specialized Roubaix Sport",
+  "brand": "Specialized",
+  "price": 3500,
+  "type": "Road",
+  "description": "Endurance bike with Future Shock technology for smooth handling.",
+  "quantity": 6,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/FLrNjTTy/Znn-Hy-Jb-WFbowe0-Pv-0-K0-STAUI2-C-PROFILE-Web.webp"
+},
+{
+  "_id": {
+    "$oid": "67c07240a8cbf84cabd0ed29"
+  },
+  "name": "Cannondale SuperSix EVO Carbon",
+  "brand": "Cannondale",
+  "price": 4000,
+  "type": "Road",
+  "description": "Ultra-lightweight frame with aerodynamic efficiency and smooth shifting.",
+  "quantity": 5,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/DHynZRMy/Znn-Hbpb-WFbowe0-Oz-0-K0-CFBRX1-C-PROFILE-Web.webp"
+},
+{
+  "_id": {
+    "$oid": "67c07240a8cbf84cabd0ed2a"
+  },
+  "name": "Trek FX 3 Disc",
+  "brand": "Trek",
+  "price": 1200,
+  "type": "Hybrid",
+  "description": "Versatile hybrid bike with a lightweight aluminum frame and hydraulic disc brakes.",
+  "quantity": 10,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/G39jdGXc/Urban-4-0-Blue-768x484.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c07240a8cbf84cabd0ed2b"
+  },
+  "name": "Giant Escape 2 Disc",
+  "brand": "Giant",
+  "price": 950,
+  "type": "Hybrid",
+  "description": "Smooth and efficient bike with a stable frame for city and light trails.",
+  "quantity": 12,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/h1mhscLL/Urban-4-0-Red-768x484.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c07240a8cbf84cabd0ed2c"
+  },
+  "name": "Specialized Sirrus X 4.0",
+  "brand": "Specialized",
+  "price": 1400,
+  "type": "Hybrid",
+  "description": "A fitness-focused hybrid with Future Shock suspension for added comfort.",
+  "quantity": 8,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/7dG7GHgQ/1-0-1-768x484.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c07240a8cbf84cabd0ed2d"
+  },
+  "name": "Cannondale Quick 3",
+  "brand": "Cannondale",
+  "price": 1100,
+  "type": "Hybrid",
+  "description": "Lightweight, fast, and comfortable bike for urban commuting and fitness rides.",
+  "quantity": 7,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/FqJ7nV4g/Urban-1-0-Blue-768x484.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c07240a8cbf84cabd0ed2e"
+  },
+  "name": "Marin Fairfax 2",
+  "brand": "Marin",
+  "price": 850,
+  "type": "Hybrid",
+  "description": "A durable and reliable hybrid bike designed for daily commutes.",
+  "quantity": 15,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/JFbVP4HM/Urban-2-0-Red-768x484.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c07240a8cbf84cabd0ed2f"
+  },
+  "name": "Raleigh Cadent 3",
+  "brand": "Raleigh",
+  "price": 1000,
+  "type": "Hybrid",
+  "description": "A comfortable hybrid bike with a strong frame and reliable components.",
+  "quantity": 9,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/1t2Xm659/Urban-1-0-Red-768x484.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c07297a8cbf84cabd0ed31"
+  },
+  "name": "Trek Domane SL 6",
+  "brand": "Trek",
+  "price": 3200,
+  "type": "Road",
+  "description": "High-performance road bike with endurance geometry and IsoSpeed technology.",
+  "quantity": 8,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/R43yJ3h3/Znn-Hr5b-WFbowe0-Ph-0-K0-S5-FRX1-C-PROFILE-Web.webp"
+},
+{
+  "_id": {
+    "$oid": "67c07297a8cbf84cabd0ed32"
+  },
+  "name": "Giant Defy Advanced 2",
+  "brand": "Giant",
+  "price": 2800,
+  "type": "Road",
+  "description": "Smooth ride with advanced composite frame and D-Fuse seatpost.",
+  "quantity": 10,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/8WPr0vB/Znn-Hppb-WFbowe0-PZ-0-K0-R5-GRX1-C-PROFILE-Web.webp"
+},
+{
+  "_id": {
+    "$oid": "67c07297a8cbf84cabd0ed33"
+  },
+  "name": "Specialized Roubaix Sport",
+  "brand": "Specialized",
+  "price": 3500,
+  "type": "Road",
+  "description": "Endurance bike with Future Shock technology for smooth handling.",
+  "quantity": 6,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/FLrNjTTy/Znn-Hy-Jb-WFbowe0-Pv-0-K0-STAUI2-C-PROFILE-Web.webp"
+},
+{
+  "_id": {
+    "$oid": "67c07297a8cbf84cabd0ed34"
+  },
+  "name": "Cannondale SuperSix EVO Carbon",
+  "brand": "Cannondale",
+  "price": 4000,
+  "type": "Road",
+  "description": "Ultra-lightweight frame with aerodynamic efficiency and smooth shifting.",
+  "quantity": 5,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/DHynZRMy/Znn-Hbpb-WFbowe0-Oz-0-K0-CFBRX1-C-PROFILE-Web.webp"
+},
+{
+  "_id": {
+    "$oid": "67c07297a8cbf84cabd0ed35"
+  },
+  "name": "Trek FX 3 Disc",
+  "brand": "Trek",
+  "price": 1200,
+  "type": "Hybrid",
+  "description": "Versatile hybrid bike with a lightweight aluminum frame and hydraulic disc brakes.",
+  "quantity": 10,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/G39jdGXc/Urban-4-0-Blue-768x484.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c07297a8cbf84cabd0ed36"
+  },
+  "name": "Giant Escape 2 Disc",
+  "brand": "Giant",
+  "price": 950,
+  "type": "Hybrid",
+  "description": "Smooth and efficient bike with a stable frame for city and light trails.",
+  "quantity": 12,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/h1mhscLL/Urban-4-0-Red-768x484.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c07297a8cbf84cabd0ed37"
+  },
+  "name": "Specialized Sirrus X 4.0",
+  "brand": "Specialized",
+  "price": 1400,
+  "type": "Hybrid",
+  "description": "A fitness-focused hybrid with Future Shock suspension for added comfort.",
+  "quantity": 8,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/7dG7GHgQ/1-0-1-768x484.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c07297a8cbf84cabd0ed38"
+  },
+  "name": "Cannondale Quick 3",
+  "brand": "Cannondale",
+  "price": 1100,
+  "type": "Hybrid",
+  "description": "Lightweight, fast, and comfortable bike for urban commuting and fitness rides.",
+  "quantity": 7,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/FqJ7nV4g/Urban-1-0-Blue-768x484.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c07297a8cbf84cabd0ed39"
+  },
+  "name": "Marin Fairfax 2",
+  "brand": "Marin",
+  "price": 850,
+  "type": "Hybrid",
+  "description": "A durable and reliable hybrid bike designed for daily commutes.",
+  "quantity": 15,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/JFbVP4HM/Urban-2-0-Red-768x484.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c07297a8cbf84cabd0ed3a"
+  },
+  "name": "Raleigh Cadent 3",
+  "brand": "Raleigh",
+  "price": 1000,
+  "type": "Hybrid",
+  "description": "A comfortable hybrid bike with a strong frame and reliable components.",
+  "quantity": 9,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/1t2Xm659/Urban-1-0-Red-768x484.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c07297a8cbf84cabd0ed3b"
+  },
+  "name": "Mongoose Legion L20",
+  "brand": "Mongoose",
+  "price": 400,
+  "type": "BMX",
+  "description": "Freestyle BMX bike with a sturdy frame and high-traction tires for tricks and stunts.",
+  "quantity": 10,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/pjGkhqjP/481489475-827792486168532-4365308010373226792-n.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c072faa8cbf84cabd0ed3d"
+  },
+  "name": "Trek Domane SL 6",
+  "brand": "Trek",
+  "price": 3200,
+  "type": "Road",
+  "description": "High-performance road bike with endurance geometry and IsoSpeed technology.",
+  "quantity": 8,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/R43yJ3h3/Znn-Hr5b-WFbowe0-Ph-0-K0-S5-FRX1-C-PROFILE-Web.webp"
+},
+{
+  "_id": {
+    "$oid": "67c072faa8cbf84cabd0ed3e"
+  },
+  "name": "Giant Defy Advanced 2",
+  "brand": "Giant",
+  "price": 2800,
+  "type": "Road",
+  "description": "Smooth ride with advanced composite frame and D-Fuse seatpost.",
+  "quantity": 10,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/8WPr0vB/Znn-Hppb-WFbowe0-PZ-0-K0-R5-GRX1-C-PROFILE-Web.webp"
+},
+{
+  "_id": {
+    "$oid": "67c072faa8cbf84cabd0ed3f"
+  },
+  "name": "Specialized Roubaix Sport",
+  "brand": "Specialized",
+  "price": 3500,
+  "type": "Road",
+  "description": "Endurance bike with Future Shock technology for smooth handling.",
+  "quantity": 6,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/FLrNjTTy/Znn-Hy-Jb-WFbowe0-Pv-0-K0-STAUI2-C-PROFILE-Web.webp"
+},
+{
+  "_id": {
+    "$oid": "67c072faa8cbf84cabd0ed40"
+  },
+  "name": "Cannondale SuperSix EVO Carbon",
+  "brand": "Cannondale",
+  "price": 4000,
+  "type": "Road",
+  "description": "Ultra-lightweight frame with aerodynamic efficiency and smooth shifting.",
+  "quantity": 5,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/DHynZRMy/Znn-Hbpb-WFbowe0-Oz-0-K0-CFBRX1-C-PROFILE-Web.webp"
+},
+{
+  "_id": {
+    "$oid": "67c072faa8cbf84cabd0ed41"
+  },
+  "name": "Trek FX 3 Disc",
+  "brand": "Trek",
+  "price": 1200,
+  "type": "Hybrid",
+  "description": "Versatile hybrid bike with a lightweight aluminum frame and hydraulic disc brakes.",
+  "quantity": 10,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/G39jdGXc/Urban-4-0-Blue-768x484.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c072faa8cbf84cabd0ed42"
+  },
+  "name": "Giant Escape 2 Disc",
+  "brand": "Giant",
+  "price": 950,
+  "type": "Hybrid",
+  "description": "Smooth and efficient bike with a stable frame for city and light trails.",
+  "quantity": 12,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/h1mhscLL/Urban-4-0-Red-768x484.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c072faa8cbf84cabd0ed43"
+  },
+  "name": "Specialized Sirrus X 4.0",
+  "brand": "Specialized",
+  "price": 1400,
+  "type": "Hybrid",
+  "description": "A fitness-focused hybrid with Future Shock suspension for added comfort.",
+  "quantity": 8,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/7dG7GHgQ/1-0-1-768x484.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c072faa8cbf84cabd0ed44"
+  },
+  "name": "Cannondale Quick 3",
+  "brand": "Cannondale",
+  "price": 1100,
+  "type": "Hybrid",
+  "description": "Lightweight, fast, and comfortable bike for urban commuting and fitness rides.",
+  "quantity": 7,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/FqJ7nV4g/Urban-1-0-Blue-768x484.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c072faa8cbf84cabd0ed45"
+  },
+  "name": "Marin Fairfax 2",
+  "brand": "Marin",
+  "price": 850,
+  "type": "Hybrid",
+  "description": "A durable and reliable hybrid bike designed for daily commutes.",
+  "quantity": 15,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/JFbVP4HM/Urban-2-0-Red-768x484.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c072faa8cbf84cabd0ed46"
+  },
+  "name": "Raleigh Cadent 3",
+  "brand": "Raleigh",
+  "price": 1000,
+  "type": "Hybrid",
+  "description": "A comfortable hybrid bike with a strong frame and reliable components.",
+  "quantity": 9,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/1t2Xm659/Urban-1-0-Red-768x484.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c072faa8cbf84cabd0ed47"
+  },
+  "name": "Mongoose Legion",
+  "brand": "Mongoose",
+  "price": 400,
+  "type": "BMX",
+  "description": "Freestyle BMX bike with a sturdy frame and high-traction tires for tricks and stunts.",
+  "quantity": 10,
+  "inStock": true,
+  "image": "https://i.ibb.co.com/pjGkhqjP/481489475-827792486168532-4365308010373226792-n.jpg",
+  "updated_at": {
+    "$date": "2025-02-27T14:21:59.313Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c13a6f4777311c392f7fda"
+  },
+  "name": "Giant Electric Pro",
+  "brand": "Giant",
+  "price": 85000,
+  "type": "Electric",
+  "quantity": 10,
+  "inStock": true,
+  "description": "A high-performance electric mountain bike designed for rugged trails and long rides.",
+  "image": "https://i.ibb.co/1JGjRNnR/giant-238091.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c13a6f4777311c392f7fdb"
+  },
+  "name": "Trek PowerRide 500",
+  "brand": "Trek",
+  "price": 92000,
+  "type": "Electric",
+  "quantity": 7,
+  "inStock": true,
+  "description": "A powerful road electric bike with an efficient motor and sleek design.",
+  "image": "https://i.ibb.co/hF0kpvd/photo-1558978806-73073843b15e.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c13a6f4777311c392f7fdc"
+  },
+  "name": "Specialized Turbo X",
+  "brand": "Specialized",
+  "price": 78000,
+  "type": "Electric",
+  "quantity": 5,
+  "inStock": false,
+  "description": "A hybrid electric bike that combines speed and comfort for urban and trail rides.",
+  "image": "https://i.ibb.co/kg0rJQG2/photo-1618987688327-dc0b28888fe4.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c13a6f4777311c392f7fdd"
+  },
+  "name": "Segway Xyber Pro",
+  "brand": "Segway",
+  "price": 99000,
+  "type": "Electric",
+  "quantity": 12,
+  "inStock": true,
+  "description": "A futuristic electric bike with smart features and a long-lasting battery.",
+  "image": "https://i.ibb.co/zVTVbtGr/segway-xyber-header.webp"
+},
+{
+  "_id": {
+    "$oid": "67c13a6f4777311c392f7fde"
+  },
+  "name": "DAB Motors E-Racer",
+  "brand": "DAB Motors",
+  "price": 87500,
+  "type": "Electric",
+  "quantity": 8,
+  "inStock": true,
+  "description": "A stylish and powerful electric motorcycle built for speed and performance.",
+  "image": "https://i.ibb.co/Ps4vwQ0m/dab-motors-electric-motorcycle-concept-1.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c13a6f4777311c392f7fdf"
+  },
+  "name": "Scooway Electric Bike 750W",
+  "brand": "Scooway",
+  "price": 72000,
+  "type": "Electric",
+  "quantity": 6,
+  "inStock": false,
+  "description": "A compact and efficient folding electric bike perfect for city commuting.",
+  "image": "https://i.ibb.co/v61m898t/63a690176026733e3b6223fa-scooway-electric-bike-750w-electric.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c13a6f4777311c392f7fe0"
+  },
+  "name": "SOHAMO A3 Electric Bike",
+  "brand": "SOHAMO",
+  "price": 67000,
+  "type": "Electric",
+  "quantity": 9,
+  "inStock": true,
+  "description": "A lightweight electric mini bike with a removable battery for convenience.",
+  "image": "https://i.ibb.co/KgDbh9S/SOHAMO-A3-Electric-Bike-Adults-Teens-400-W-Motor-Folding-Bicycles-48-V-12-Ah-Removable-Battery-Mini.webp"
+},
+{
+  "_id": {
+    "$oid": "67c13a6f4777311c392f7fe1"
+  },
+  "name": "MOTO BLU X3",
+  "brand": "MOTO BLU",
+  "price": 98000,
+  "type": "Electric",
+  "quantity": 10,
+  "inStock": true,
+  "description": "A touring electric bike designed for long-distance comfort and performance.",
+  "image": "https://i.ibb.co/27n3xncZ/MOTO-BLU-3-4-layers-min.webp",
+  "updated_at": {
+    "$date": "2025-03-01T05:41:07.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c2a09bb8e8678d2c30f134"
+  },
+  "name": "Quo quo sit facere v",
+  "brand": "Nostrud velit ut qu",
+  "price": 30,
+  "type": "BMX",
+  "description": "Praesentium quis rer",
+  "quantity": 32,
+  "inStock": true,
+  "created_at": {
+    "$date": "2025-03-01T05:52:27.279Z"
+  },
+  "updated_at": {
+    "$date": "2025-03-01T05:52:27.279Z"
+  },
+  "__v": 0
+}]

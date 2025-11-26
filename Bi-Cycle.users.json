@@ -1,0 +1,436 @@
+[{
+  "_id": {
+    "$oid": "67bf44af4bfb912a8c2aa47b"
+  },
+  "name": "Odysseus Jacobson",
+  "email": "",
+  "password": "$2b$12$6RlE8JeK025/M0wq5FJ7qecWcBCrtFgGu7wys7P56XL5b81Pg8lL6",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "+1 (116) 833-3843",
+  "gender": "Prefer Not to Say",
+  "createdAt": {
+    "$date": "2025-02-26T16:43:27.246Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-01T06:22:22.671Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bf4a0d4bfb912a8c2aa4ba"
+  },
+  "name": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$12$2yqJmpICAft1J1D48swL.uoDhbJDbqR0P/lWtrQaqxLcCg1HSD6YS",
+  "role": "admin",
+  "isBlocked": false,
+  "phone": "9438709872098",
+  "gender": "Female",
+  "createdAt": {
+    "$date": "2025-02-26T17:06:21.435Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T17:06:21.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bf54374bfb912a8c2aa521"
+  },
+  "name": "Sandra Lowery",
+  "email": "qijihyxama@mailinator.com",
+  "password": "$2b$12$aADKNZvwcd6Bhm1Drr6a..c1/nI/RYKdlL/7hgm1Zxho6imqienaa",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "+1 (883) 428-3086",
+  "gender": "Male",
+  "createdAt": {
+    "$date": "2025-02-26T17:49:43.436Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T17:49:43.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bf574bf3d7b8b81068ed26"
+  },
+  "name": "Chastity Marquez",
+  "email": "lirif@mailinator.com",
+  "password": "$2b$12$.5cS0EnaPZQkWS1qnH4dueaE0DeVgUXEjBZkgmfGPj9mV8TLYNyYS",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "+1 (585) 138-7041",
+  "gender": "Non-Binary",
+  "createdAt": {
+    "$date": "2025-02-26T18:02:51.048Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T18:02:51.048Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bfe26f14dc821940af3fd7"
+  },
+  "name": "t1",
+  "email": "test1@gmail.com",
+  "password": "$2b$12$6KUlBGR1UEKtlt1YQER0vOAFCXUDahnFEGtYnWsw9h3LUklpO1wQK",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "0145896d23543553",
+  "gender": "Male",
+  "createdAt": {
+    "$date": "2025-02-27T03:56:31.921Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T03:56:31.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bfe9ab5acc90c4ad9d7ef6"
+  },
+  "name": "Suki Mcleod",
+  "email": "riceci@mailinator.com",
+  "password": "$2b$12$PMtMql7ZwAxn9nZvs2//aeQVjVYI1V0E0pg86kq4HrJzGW5XDu/6S",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "+1 (471) 243-7792",
+  "gender": "Non-Binary",
+  "createdAt": {
+    "$date": "2025-02-27T04:27:23.849Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T04:27:23.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bfeb56784b7cca7b0c000a"
+  },
+  "name": "Sean Wilkins",
+  "email": "kuxo@mailinator.com",
+  "password": "$2b$12$1FVtnYZCBxaYlC15dlFdg./jkY4pGByJOSQolQaDLKup5rklRFczO",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "+1 (225) 801-9497",
+  "gender": "Female",
+  "createdAt": {
+    "$date": "2025-02-27T04:34:30.973Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T04:34:30.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c035ab70f92506931854a4"
+  },
+  "name": "t1",
+  "email": "tehhst1@gmail.com",
+  "password": "$2b$12$Rx1OBdYxUZJE.EwA/o/cZuf8UVvyvjhi8e/R88uWXsEz6mP0OMfLq",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "0145896d23509843553",
+  "gender": "Male",
+  "createdAt": {
+    "$date": "2025-02-27T09:51:39.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T09:51:39.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c03a23ce4d446d873b542a"
+  },
+  "name": "Aiko Estrada",
+  "email": "xawywe@mailinator.com",
+  "password": "$2b$12$6rMwS4k8HZNvvS8uSwSJ..VVFJtAIcKKNnCw/492foarsf8WV3jTy",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "+1 (802) 497-7737",
+  "gender": "Male",
+  "createdAt": {
+    "$date": "2025-02-27T10:10:43.915Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T10:10:43.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c041ecf629e1b2251d5131"
+  },
+  "name": "Nina Blackwell",
+  "email": "",
+  "password": "$2b$12$QFhuq9l2JlMlvCwG1UEqSecAWQqOH55jDNsXSGYswU2/8Lmx0B0P2",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "+1 (332) 981-5577",
+  "gender": "Prefer Not to Say",
+  "createdAt": {
+    "$date": "2025-02-27T10:43:56.284Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T11:24:09.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c05287a3bf128fcf288312"
+  },
+  "name": "admin",
+  "email": "admin@email.com",
+  "password": "$2b$12$cgYBDIjTlnpsvHrSeoMQr.oFLZog4kOV0vR/kiVlJjA/dyv2/yBfe",
+  "role": "admin",
+  "isBlocked": false,
+  "phone": "0394850348",
+  "gender": "Male",
+  "createdAt": {
+    "$date": "2025-02-27T11:54:47.289Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T11:54:47.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c0869dbfd324210a782aff"
+  },
+  "name": "Sakib",
+  "email": "2003@gmail.com",
+  "password": "$2b$12$owixvVlDgoTWov9R2ubzV.MIYMYKKHbI4Gg3apcJvAx4xW5Qf.Ghe",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "01",
+  "gender": "Male",
+  "createdAt": {
+    "$date": "2025-02-27T15:37:01.911Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-28T05:23:19.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c14100879e746e075594ec"
+  },
+  "name": "Willow Hall",
+  "email": "tagi@mailinator.com",
+  "password": "$2b$12$MOUfhGQnWew4SA8.1HkCbueWHKMYTSTWQ/Je30r5NpNDgnpY5x3Uq",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "+1 (413) 119-9218",
+  "gender": "Female",
+  "createdAt": {
+    "$date": "2025-02-28T04:52:16.016Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-28T04:52:16.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c29a46b8e8678d2c30f0d0"
+  },
+  "name": "User Name 1",
+  "email": "user1@gmail.com",
+  "password": "$2b$12$6yMNRG8U6C/aDpHRTa6pu.DzGTR70Mr021e61ulEDVnWqD2/vhuLi",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "12345678",
+  "gender": "Female",
+  "createdAt": {
+    "$date": "2025-03-01T05:25:26.385Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-01T05:25:26.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c29b4bb8e8678d2c30f0d5"
+  },
+  "name": "User2",
+  "email": "user2@gmail.com",
+  "password": "$2b$12$IJdPs7/kGJCKeiiaHFzjF.hoLWPspL515kr1OoegxVUUd3NoM60YG",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "123456781",
+  "gender": "Male",
+  "createdAt": {
+    "$date": "2025-03-01T05:29:47.804Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-01T05:29:47.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c29b99b8e8678d2c30f0d9"
+  },
+  "name": "Kirk Cline",
+  "email": "user3@email.com",
+  "password": "$2b$12$WVGhH11JNpyk0spCIQ.N9eAqGpb57ccYkgGBMWs/8MrK/6lLZvgkS",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "11111111",
+  "gender": "Male",
+  "createdAt": {
+    "$date": "2025-03-01T05:31:05.084Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-01T05:31:05.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c29c07b8e8678d2c30f0dd"
+  },
+  "name": "Mara Sosa",
+  "email": "user4@email.com",
+  "password": "$2b$12$VfXhIO/KypB0btBUVIApousPOZtFs0d6QhhowdYqOVWoFdS3XZWDa",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "+1 (859) 657-5148",
+  "gender": "Male",
+  "createdAt": {
+    "$date": "2025-03-01T05:32:55.562Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-01T05:49:46.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c29c10b8e8678d2c30f0e1"
+  },
+  "name": "Aurora Mcfadden",
+  "email": "giqohi@mailinator.com",
+  "password": "$2b$12$L.PsCVH1EOgUHjStXznIf.4eNmGQnDMrBhAeWENry5lxMqkToavne",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "+1 (574) 865-3111",
+  "gender": "Female",
+  "createdAt": {
+    "$date": "2025-03-01T05:33:04.940Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-01T05:33:04.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c29c40b8e8678d2c30f0e5"
+  },
+  "name": "Lee Puckett",
+  "email": "deku@mailinator.com",
+  "password": "$2b$12$NFM3jL5KJC6eMfPUao0bfuNL9XF1civXFtXb0hvMwVzp7QQpeIWlm",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "+1 (734) 332-6487",
+  "gender": "Male",
+  "createdAt": {
+    "$date": "2025-03-01T05:33:52.298Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-01T05:33:52.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c29c81b8e8678d2c30f0e9"
+  },
+  "name": "Meghan Middleton",
+  "email": "bero@mailinator.com",
+  "password": "$2b$12$RqaSfiobHQZ2py0PFiIKjulAC.oYbp2vkjb69WumsZacJ9Fxnav0q",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "+1 (606) 266-3521",
+  "gender": "Male",
+  "createdAt": {
+    "$date": "2025-03-01T05:34:57.033Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-01T05:34:57.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c36e22dd9acd5ccd7dc377"
+  },
+  "name": "sdf",
+  "email": "test@mail.com",
+  "password": "$2b$12$Sd.Ffpvyqj/LsyKkQQW63OUoU1aoR2LzLaEPdrEVxp5tfVXDaHZ4C",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "01620705755",
+  "gender": "Male",
+  "createdAt": {
+    "$date": "2025-03-01T20:29:22.512Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-01T20:29:22.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c6daf08ba6ba06f9e7750d"
+  },
+  "name": "Neve Rios",
+  "email": "bugilop@mailinator.com",
+  "password": "$2b$12$b8WRwzkMwiNM9ApJpuL1yO3otQZcdtvk1hGuab/nBL5aOf/RHL3Mm",
+  "role": "customer",
+  "isBlocked": true,
+  "phone": "+1 (996) 834-4957",
+  "gender": "Prefer Not to Say",
+  "createdAt": {
+    "$date": "2025-03-04T10:50:24.542Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-04T10:56:10.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf46fa78a7869f5a418b19"
+  },
+  "name": "Octavia Holmes",
+  "email": "raryraf@mailinator.com",
+  "password": "$2b$12$Fc8vIbyCJJvfeI0QMT5dheyYLHbaarQR0AtFLvELtCVF4ZfA8zmRm",
+  "role": "customer",
+  "isBlocked": false,
+  "phone": "+1 (777) 996-8032",
+  "createdAt": {
+    "$date": "2025-03-10T20:09:30.653Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T20:09:30.653Z"
+  },
+  "__v": 0
+}]
